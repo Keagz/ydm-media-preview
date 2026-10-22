@@ -1,7 +1,7 @@
-:HL["/ydm-media-preview/_next/static/chunks/40vzmd8br6g4h.css","style"]
+:HL["/ydm-media-preview/_next/static/chunks/128ztuu0c1_dt.css","style"]
 :HL["/ydm-media-preview/_next/static/media/0c89a48fa5027cee-s.p.2cyn07wtgehh0.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/ydm-media-preview/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"new-holland-nampo","s":[]},"h":65632,"c":"$Q3"}]]
 1:[["children",{"s":"work","h":131136,"c":"$Q2"}]]
-0:{"b":"pQYikSB9LWtKoGYBttbDg","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
+0:{"b":"pFlE6FR-fdygnqOCAobgB","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
